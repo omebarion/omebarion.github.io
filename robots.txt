@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omebarion.github.io/sitemap
+Sitemap: https://omebarion.github.io/app/sitemap
+Sitemap: https://omebarion.github.io/assets/sitemap
+Sitemap: https://omebarion.github.io/css/sitemap
+Sitemap: https://omebarion.github.io/includes/sitemap
+Sitemap: https://omebarion.github.io/item/sitemap
+Sitemap: https://omebarion.github.io/src/sitemap
